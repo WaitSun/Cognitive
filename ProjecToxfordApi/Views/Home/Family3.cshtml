@@ -1,0 +1,91 @@
+﻿@{
+    Layout = null;
+}
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta http-equiv="X-UA-Compatible" content="edge,chrome=1" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" /> <!-- 避免转码 -->
+    <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width" />
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="address=no">
+    <meta name="format-detection" content="email=no">
+    <meta name="apple-mobile-web-app-title" content="">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="screen-orientation" content="portrait">
+    <meta name="x5-orientation" content="portrait">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="HandheldFriendly" content="true">
+    <link href="~/css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="~/css/index.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div id="wrap">
+        <h1>娃像谁</h1>
+        <div class="pic_panel">
+            <div class="parent" id="parent1">
+                <i class="icon iconfont icon-210 human"></i>
+            </div>
+            <div class="parent" id="parent2">
+                <i class="icon iconfont icon-nv human"></i>
+            </div>
+            <div class="clear"></div>
+            <div class="parent1like like"></div>
+            <div class="parent2like like"></div>
+            <div class="clear"></div>
+            <div class="picture" id="child">
+                <i class="icon iconfont icon-child human"></i>
+            </div>
+            <form>
+                <input type="button" class="next" id="uploadImage" value="GO !!!">
+            </form>
+
+        </div>
+    </div>
+</body>
+</html>
+<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript">
+    var appIdstr = '@ViewBag.JsConfig.appId';
+    var timestampstr = '@ViewBag.JsConfig.timestamp';
+    var nonceStrstr = '@ViewBag.JsConfig.nonceStr';
+    var signaturestr = '@ViewBag.JsConfig.signature';
+
+</script>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script src="~/Scripts/WxJs.js"></script>
+<script>
+    var Species = "1.2", BtnId = "";
+    $('#parent1').click(function () {
+        BtnId = "parent1";
+       uploadimgs();
+    });
+    $('#parent2').click(function () {
+        BtnId = "parent2";
+        uploadimgs();
+    });
+    $('#child').click(function () {
+        BtnId = "child";
+        uploadimgs();
+    });
+
+    ////种类（1.1：娃像谁 3人照片 1张；1.2：娃像谁 单人照 3张 ；2.1：夫妻相 双人照 1张；2.2夫妻相 2张）
+    $('#uploadImage').click(function () {
+        if ($('.weui_media_appmsg_thumb').length == 3) {
+            $.get('Compare', { Species: Species, Dad: $('.weui_media_appmsg_thumb')[0].attributes[2].nodeValue, Mom: $('.weui_media_appmsg_thumb')[1].attributes[2].nodeValue, Child: $('.weui_media_appmsg_thumb')[2].attributes[2].nodeValue }, function (data) {
+                if (data.isLock == 1) {
+                    alert(data.ImgMsg);
+                } else {
+                    alert(data.ImgMsg);
+                }
+            });
+        } else {
+            alert('图片上传不完整，无法对比！');
+        }
+
+    });
+</script>

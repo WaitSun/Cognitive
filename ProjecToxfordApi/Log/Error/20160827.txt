@@ -1,0 +1,117 @@
+时间：2016.08.27--11:50:06
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=-IVUZF0KWMLcQT-DcTwRfAr4uikFV3Ay_kwC2CxtaXyAJ_VETvWuJgI7qPA4PUvOuOJa62a8IZPGbadz-vWvK9a7SnNd4z-AqvLQjt5Rk7FsPDKIfJwVvNPvfS-tef7uURVaACADAE&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016492711494949.jpg
+————————————————————————————————————————————
+时间：2016.08.27--11:53:59
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=-IVUZF0KWMLcQT-DcTwRfAr4uikFV3Ay_kwC2CxtaXyAJ_VETvWuJgI7qPA4PUvOuOJa62a8IZPGbadz-vWvK9a7SnNd4z-AqvLQjt5Rk7FsPDKIfJwVvNPvfS-tef7uURVaACADAE&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016532711535953.jpg
+————————————————————————————————————————————
+时间：2016.08.27--11:54:29
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=-IVUZF0KWMLcQT-DcTwRfAr4uikFV3Ay_kwC2CxtaXyAJ_VETvWuJgI7qPA4PUvOuOJa62a8IZPGbadz-vWvK9a7SnNd4z-AqvLQjt5Rk7FsPDKIfJwVvNPvfS-tef7uURVaACADAE&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016542711542754.jpg
+————————————————————————————————————————————
+时间：2016.08.27--12:05:19
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=9A46X14-hnb_-nfvKX2GsS16PfU5ix10bfoTPV_0TCVHYAiVhiOGUPuMvebPTpSuVshf8TsWplNL7Cfulwa3HD12zIU_BNp9p-fdMoG5UHZW5AupppsfjebHdHmpLIF6RNYcAAAZVG&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016052712051905.jpg
+————————————————————————————————————————————
+时间：2016.08.27--12:22:00
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=LoqB78xO7ESdv3FTRW55AN5xutXx29HcvOhNLhJEzz0bvxlwBCoVr2hEzaPIQ7iflOGhugzxcBLcHnYxUyJdCw4DI1czdaujRWHgcn6wpDR3olrBnaYMsPQFr3wd3MSNVYHgAJAKNW&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016222712220022.jpg
+————————————————————————————————————————————
+时间：2016.08.27--12:23:19
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=LoqB78xO7ESdv3FTRW55AN5xutXx29HcvOhNLhJEzz0bvxlwBCoVr2hEzaPIQ7iflOGhugzxcBLcHnYxUyJdCw4DI1czdaujRWHgcn6wpDR3olrBnaYMsPQFr3wd3MSNVYHgAJAKNW&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016232712231923.jpg
+————————————————————————————————————————————
+时间：2016.08.27--12:35:12
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=nGpKnAHoVz3arou0QE8tbEMSOYRl0gGVspjzj9oyPvIG0wApIeecPJEb8-HltULJC7FPEJ1Abe1x4P3NJydZ17ZAVG4ltlrnTkV5YWYsLATxNHpI3M3JTmuihw1p96CSKAMeAGACSE&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016352712351235.jpg
+————————————————————————————————————————————
+时间：2016.08.27--12:45:56
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=G5D_PWZwJouPoUvzoVgQQlZHhu4pVGJyMZ4ist7e7nTWsHXDuCxzV6dE0jYfJzWutRL_fv9Al4Gyz9Q9YHxDaoujo4sgoG3jaqFSGhsW4G6bZyqGtY2gjo6YrSf9asnVIXYbAFAAPQ&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016452712455645.jpg
+————————————————————————————————————————————
+时间：2016.08.27--12:46:28
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=G5D_PWZwJouPoUvzoVgQQlZHhu4pVGJyMZ4ist7e7nTWsHXDuCxzV6dE0jYfJzWutRL_fv9Al4Gyz9Q9YHxDaoujo4sgoG3jaqFSGhsW4G6bZyqGtY2gjo6YrSf9asnVIXYbAFAAPQ&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016462712462846.jpg
+————————————————————————————————————————————
+时间：2016.08.27--12:47:08
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=G5D_PWZwJouPoUvzoVgQQlZHhu4pVGJyMZ4ist7e7nTWsHXDuCxzV6dE0jYfJzWutRL_fv9Al4Gyz9Q9YHxDaoujo4sgoG3jaqFSGhsW4G6bZyqGtY2gjo6YrSf9asnVIXYbAFAAPQ&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016472712470847.jpg
+————————————————————————————————————————————
+时间：2016.08.27--12:47:58
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=G5D_PWZwJouPoUvzoVgQQlZHhu4pVGJyMZ4ist7e7nTWsHXDuCxzV6dE0jYfJzWutRL_fv9Al4Gyz9Q9YHxDaoujo4sgoG3jaqFSGhsW4G6bZyqGtY2gjo6YrSf9asnVIXYbAFAAPQ&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016472712475847.jpg
+————————————————————————————————————————————
+时间：2016.08.27--13:01:02
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=JGlO7hr3F97wBDGoUvAtjTEvCf60ot3EkKWMPLks_iXmp6W8ZulQSxIRFr7nUrRayvr0n8aQSXCB0UKEf4VptoUEz19iuILrfI1KPbjqAhg9TGUeIZf4DDdYkNlV4vxeDMHgAGAQZU&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016012701010201.jpg
+————————————————————————————————————————————
+时间：2016.08.27--13:01:37
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=JGlO7hr3F97wBDGoUvAtjTEvCf60ot3EkKWMPLks_iXmp6W8ZulQSxIRFr7nUrRayvr0n8aQSXCB0UKEf4VptoUEz19iuILrfI1KPbjqAhg9TGUeIZf4DDdYkNlV4vxeDMHgAGAQZU&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016012701013701.jpg
+————————————————————————————————————————————
+时间：2016.08.27--13:18:18
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=2JwpwbGzg7Se36543k7pUpCN0KT8CeJHc-oYpW_pTURhCdLCFuqkEmPyVAeZWQyws4-DRNLLpgfBTOSePvSSwD82_Xkf2XRhlvoHjV3qFTlv1DaG5S4nHKFEw2-1L2WcBFNfABAOSA&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016182701181818.jpg
+————————————————————————————————————————————
+时间：2016.08.27--13:56:45
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=73DdANfpWXlROEohaQsEuA8GkAONRVcyq5iQd9YfJONh5rxTpPh2JMWUGbFmSp6eYh4igahWM4W2jgUURgUH8APflnQBvpKmdYgeDInVrzERcD2LFzxcZT6K6sxq6Pe_NEHdAEAQHK&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016562701564556.jpg
+————————————————————————————————————————————
+时间：2016.08.27--13:58:20
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=73DdANfpWXlROEohaQsEuA8GkAONRVcyq5iQd9YfJONh5rxTpPh2JMWUGbFmSp6eYh4igahWM4W2jgUURgUH8APflnQBvpKmdYgeDInVrzERcD2LFzxcZT6K6sxq6Pe_NEHdAEAQHK&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016582701581858.jpg
+————————————————————————————————————————————
+时间：2016.08.27--15:48:09
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=nWuWDL-CyRcrnd0E0w07OSSI4CVhCQVEkKgMGybkK5rMnmra9taTN1wReDP7NGoI1rjHZmiXnSTvGRoJqavb9NK5vXDLHjLOl2LSc4D-7P8uij5tlHQkXbYhUqPk3fGgTFVfAHALXN&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016482703480948.jpg
+————————————————————————————————————————————
+时间：2016.08.27--17:41:37
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=JGlO7hr3F97wBDGoUvAtjf3URmJkWn6bIOwwW55_axDuAw-ZcxcfWznN_oVDYSsB18EzsjGNv3ndqfEEjGZdh_TZSohv8v40DMGC99JJIqQHKFcAAAYBW&media_id=yk6IGySkJGRNThLzWmN-lkxzBvhdUrpkFlcOed-vL6iT6pu2BTRF3Wjx7tbufwl0 : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016412705413741.jpg
+————————————————————————————————————————————
+时间：2016.08.27--17:41:52
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=JGlO7hr3F97wBDGoUvAtjf3URmJkWn6bIOwwW55_axDuAw-ZcxcfWznN_oVDYSsB18EzsjGNv3ndqfEEjGZdh_TZSohv8v40DMGC99JJIqQHKFcAAAYBW&media_id=yk6IGySkJGRNThLzWmN-lkxzBvhdUrpkFlcOed-vL6iT6pu2BTRF3Wjx7tbufwl0 : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016412705415241.jpg
+————————————————————————————————————————————
+时间：2016.08.27--17:42:24
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=iiDoKW6dbml8y5y9fYqzzN5rmWKNdAKv8rzUQd0u9VPievTFkOqqv0MckkcUXlOofo8imYygsTZYojfxhUdJd_rMcbDi4dqH2-Ty98M42H-BYnCfvqvO3B7D5cDGToj3RVRgAEABFB&media_id=0EcwdPOyvntXkENe-i_Snevhaki6HNA7VKB8pFMeiBPOeiWWqL_iZhZBag2gNqsO : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016422705422442.jpg
+————————————————————————————————————————————
+时间：2016.08.27--17:59:41
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=nVFlB7qxJO_Nhro6db05v4eiDL5wMXyNhXrjkb7u2fsvhpIuPxE-F3ZXGcngMiOfzeX7Hm229gyT4jWiDSfSExBXlNxdfIdDKoNHDFHpF1pj0pSC_eJdSFkE-WfaAqkbFBBhABALHH&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016592705594159.jpg
+————————————————————————————————————————————
+时间：2016.08.27--17:59:41
+{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [TjroKa0988e292]"}
+————————————————————————————————————————————
+时间：2016.08.27--18:00:13
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=nVFlB7qxJO_Nhro6db05v4eiDL5wMXyNhXrjkb7u2fsvhpIuPxE-F3ZXGcngMiOfzeX7Hm229gyT4jWiDSfSExBXlNxdfIdDKoNHDFHpF1pj0pSC_eJdSFkE-WfaAqkbFBBhABALHH&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016002706001300.jpg
+————————————————————————————————————————————
+时间：2016.08.27--18:00:14
+{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [qQDhJa0021e297]"}
+————————————————————————————————————————————
+时间：2016.08.27--18:00:45
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=nVFlB7qxJO_Nhro6db05v4eiDL5wMXyNhXrjkb7u2fsvhpIuPxE-F3ZXGcngMiOfzeX7Hm229gyT4jWiDSfSExBXlNxdfIdDKoNHDFHpF1pj0pSC_eJdSFkE-WfaAqkbFBBhABALHH&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016002706004500.jpg
+————————————————————————————————————————————
+时间：2016.08.27--18:00:45
+{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [qtop_a0052e292]"}
+————————————————————————————————————————————
+时间：2016.08.27--18:01:12
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=nVFlB7qxJO_Nhro6db05v4eiDL5wMXyNhXrjkb7u2fsvhpIuPxE-F3ZXGcngMiOfzeX7Hm229gyT4jWiDSfSExBXlNxdfIdDKoNHDFHpF1pj0pSC_eJdSFkE-WfaAqkbFBBhABALHH&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016012706011201.jpg
+————————————————————————————————————————————
+时间：2016.08.27--18:01:12
+{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [BqfTvA0079e298]"}
+————————————————————————————————————————————
+时间：2016.08.27--18:26:09
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=1piH1cUQYvYFcetG-50glavrOxUwbYIWxu7TI8Cgs6QTdlcAt-CfzulOa_SjUdjiESSy7vvdHqEwqAMtvdcVnSvrh5p-3Ntx3sIvlvRYVSDjVO2vfB7VP7WSAvmDYWOEINZiAAAUZL&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016252706255625.jpg
+————————————————————————————————————————————
+时间：2016.08.27--18:30:02
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=VRc7U56kJSSromUhpquyOaTS_vk8jXV8XnUprVcdgmKIIb64V8gVRXcxPBTm63sULKTr8dfAiZwm3RFx_r5gikkU-iyPxaMas8iGKbGE0b6B1cDiGN4x5jG6MzwTEiKSQILjAGADVY&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016302706300230.jpg
+————————————————————————————————————————————
+时间：2016.08.27--18:30:31
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=VRc7U56kJSSromUhpquyOaTS_vk8jXV8XnUprVcdgmKIIb64V8gVRXcxPBTm63sULKTr8dfAiZwm3RFx_r5gikkU-iyPxaMas8iGKbGE0b6B1cDiGN4x5jG6MzwTEiKSQILjAGADVY&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016302706303130.jpg
+————————————————————————————————————————————
+时间：2016.08.27--18:31:33
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=VRc7U56kJSSromUhpquyOaTS_vk8jXV8XnUprVcdgmKIIb64V8gVRXcxPBTm63sULKTr8dfAiZwm3RFx_r5gikkU-iyPxaMas8iGKbGE0b6B1cDiGN4x5jG6MzwTEiKSQILjAGADVY&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\2016312706313331.jpg
+————————————————————————————————————————————
+时间：2016.08.27--18:36:14
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=4BiI2AmzhbgEDwsvoafKXFoWEcXBtcFmpVAS1wg1ai6hNwl4fLJ_SxJVBDTLqR2X4O0ziP1Xemc5HS9aAsBQsD0VymKbA--Q-tbpbbEj21IurlyGjowr6UpNYTGLBNncDNFjAHAYIA&media_id=w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\w-KnFapAjRA0yP59Qk5rthKqadN6U5KB5yy8NsF1nHWlAB8IVMgF3_4LKItbnyEc.jpg
+————————————————————————————————————————————
+时间：2016.08.27--18:51:27
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=JGlO7hr3F97wBDGoUvAtjT1DZfykjBiEAWuGra3g22_X6HvGGZarzChJJFeXfp6MgieI637nMujntzyUrhwCjMZ3jB_6mnszq4kxrhJyjBMUz6Y25837Xt3Vy2ouAW4_MDLcAIATKS&media_id=0EcwdPOyvntXkENe-i_Snevhaki6HNA7VKB8pFMeiBPOeiWWqL_iZhZBag2gNqsO : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\0EcwdPOyvntXkENe-i_Snevhaki6HNA7VKB8pFMeiBPOeiWWqL_iZhZBag2gNqsO.jpg
+————————————————————————————————————————————
+时间：2016.08.27--18:51:30
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=JGlO7hr3F97wBDGoUvAtjT1DZfykjBiEAWuGra3g22_X6HvGGZarzChJJFeXfp6MgieI637nMujntzyUrhwCjMZ3jB_6mnszq4kxrhJyjBMUz6Y25837Xt3Vy2ouAW4_MDLcAIATKS&media_id=yk6IGySkJGRNThLzWmN-lkxzBvhdUrpkFlcOed-vL6iT6pu2BTRF3Wjx7tbufwl0 : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\yk6IGySkJGRNThLzWmN-lkxzBvhdUrpkFlcOed-vL6iT6pu2BTRF3Wjx7tbufwl0.jpg
+————————————————————————————————————————————
+时间：2016.08.27--19:08:16
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=JGlO7hr3F97wBDGoUvAtjT1DZfykjBiEAWuGra3g22_X6HvGGZarzChJJFeXfp6MgieI637nMujntzyUrhwCjMZ3jB_6mnszq4kxrhJyjBMUz6Y25837Xt3Vy2ouAW4_MDLcAIATKS&media_id=[{ "faceId" : "ef307721-c7bc-4114-8c40-5e978ff36e3d", "age" : 53.8, "gender" : "female", "smile" : 1.0, "fileName" : "0EcwdPOyvntXkENe-i_Snevhaki6HNA7VKB8pFMeiBPOeiWWqL_iZhZBag2gNqsO.jpg" }] : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\[{ "faceId" : "ef307721-c7bc-4114-8c40-5e978ff36e3d", "age" : 53.8, "gender" : "female", "smile" : 1.0, "fileName" : "0EcwdPOyvntXkENe-i_Snevhaki6HNA7VKB8pFMeiBPOeiWWqL_iZhZBag2gNqsO.jpg" }].jpg
+————————————————————————————————————————————
+时间：2016.08.27--19:08:16
+{"errcode":40007,"errmsg":"invalid media_id hint: [Y5gODa0103e298]"}
+————————————————————————————————————————————
+时间：2016.08.27--19:08:29
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=JGlO7hr3F97wBDGoUvAtjT1DZfykjBiEAWuGra3g22_X6HvGGZarzChJJFeXfp6MgieI637nMujntzyUrhwCjMZ3jB_6mnszq4kxrhJyjBMUz6Y25837Xt3Vy2ouAW4_MDLcAIATKS&media_id=[{ "faceId" : "ef307721-c7bc-4114-8c40-5e978ff36e3d", "age" : 53.8, "gender" : "female", "smile" : 1.0, "fileName" : "0EcwdPOyvntXkENe-i_Snevhaki6HNA7VKB8pFMeiBPOeiWWqL_iZhZBag2gNqsO.jpg" }] : F:\WeixinProjecToxford-master-只用了这一个项目（ProjecToxfordApi）\WeixinProjecToxford-master\ProjecToxfordApi\Images\\[{ "faceId" : "ef307721-c7bc-4114-8c40-5e978ff36e3d", "age" : 53.8, "gender" : "female", "smile" : 1.0, "fileName" : "0EcwdPOyvntXkENe-i_Snevhaki6HNA7VKB8pFMeiBPOeiWWqL_iZhZBag2gNqsO.jpg" }].jpg
+————————————————————————————————————————————
+时间：2016.08.27--19:08:30
+{"errcode":40007,"errmsg":"invalid media_id hint: [fItX0a0117e292]"}
+————————————————————————————————————————————
